@@ -1,0 +1,1 @@
+# scanare-smartbill-app
