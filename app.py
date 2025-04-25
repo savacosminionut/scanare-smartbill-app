@@ -1,0 +1,1 @@
+# app.py - aplicația Flask va fi aici (cod complet deja generat)
